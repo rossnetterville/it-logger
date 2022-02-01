@@ -13,13 +13,6 @@
       "tech": "Sara Wilson",
       "date": "2022-02-01T09:19:03.438Z",
       "id": 2
-    },
-    {
-      "message": "Clean keyboard on workstation 002",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2022-02-01T09:20:09.980Z",
-      "id": 3
     }
   ],
   "techs": [
