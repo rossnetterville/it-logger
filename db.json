@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
+      "message": "Update OS on Mac 223",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
+      "tech": "Sara Wilson",
+      "date": "2022-02-01T09:15:15.670Z",
       "id": 1
     },
     {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 002",
+      "message": "Update OS on Mac 100",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "tech": "Sara Wilson",
+      "date": "2022-02-01T09:19:03.438Z",
+      "id": 2
     },
     {
-      "message": "1122 wireless down",
+      "message": "Clean keyboard on workstation 002",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
+      "tech": "John Doe",
+      "date": "2022-02-01T09:20:09.980Z",
       "id": 3
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
     }
   ],
   "techs": [
