@@ -13,13 +13,6 @@
       "tech": "Sara Wilson",
       "date": "2022-02-01T09:19:03.438Z",
       "id": 2
-    },
-    {
-      "message": "Test",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2022-02-01T13:31:32.127Z",
-      "id": 3
     }
   ],
   "techs": [
